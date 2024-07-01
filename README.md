@@ -6,9 +6,9 @@ Malaria is a mosquito borne disease that is very dangerous and spreads through a
   <p>
     After the data was augmented, some of the classes were increased from tiny amounts to enormous, this leads to a great problem as it tests the limit of augmentation of images. Due to this reason the dataset could not perform well with any custom or transfer learning models. To overcome this issue the dataset was trained over 5 different transfer learning models. This allows different models trained for capturing features in different types of datasets to identify a pattern in this dataset individually.  
   </p>
-  The model was then tested by forming an Ensemble Learning Model with all the available models. The final prediction made was done using majority voting. Since some of the models did not perform very well with the datasets, a custom algorithm was formed that would give a just prediction of the input image.-
+  The model was then tested by forming an Ensemble Learning Model with all the available models. The final prediction made was done using majority voting. Since some of the models did not perform very well with the datasets, a custom algorithm was formed that would give a just prediction of the input image.
 </p>
-## Models.-
+<h2>Models.</h2> 
 <p>
   The dataset was trained over the following models 
   <ul>
