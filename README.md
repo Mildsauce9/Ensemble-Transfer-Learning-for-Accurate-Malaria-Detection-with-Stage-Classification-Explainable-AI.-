@@ -8,7 +8,7 @@ Malaria is a mosquito borne disease that is very dangerous and spreads through a
   </p>
   The model was then tested by forming an Ensemble Learning Model with all the available models. The final prediction made was done using majority voting. Since some of the models did not perform very well with the datasets, a custom algorithm was formed that would give a just prediction of the input image.-
 </p>
-## Models
+## Models.-
 <p>
   The dataset was trained over the following models 
   <ul>
