@@ -18,4 +18,5 @@ Malaria is a mosquito borne disease that is very dangerous and spreads through a
     <li> InceptionV3</li>
     <li> Exception</li>
   </ul>
+  The Pre-Trained models are available <a href = "https://drive.google.com/drive/folders/1Gs9z4DmmfZHP_jZgNYdLXfj0xV9iyLYY?usp=drive_link"> here.</a>
 </p>
